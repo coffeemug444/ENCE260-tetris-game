@@ -1,0 +1,5 @@
+*.hex
+*.o
+*.out
+.vscode/c_cpp_properties.json
+*.orig
